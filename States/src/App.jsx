@@ -1,12 +1,16 @@
 
 import './App.css'
-import Counter from './Counter'
+import LudoBoard from './Ludoboard'
+// import CallbackCounter from './CallbackCounter'
+// import Counter from './Counter'
 
 function App() {
 
   return (
     <>
-    <Counter/>
+    {/* <Counter/> */}
+    {/* <CallbackCounter/> */}
+    <LudoBoard/>
 
     </>
   )

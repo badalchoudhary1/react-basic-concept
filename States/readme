@@ -1,2 +1,4 @@
 States:
 hooks: like useState()
+CallBack in set state function
+Object in state
